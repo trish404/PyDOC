@@ -1,0 +1,4 @@
+Code is an interpreted high-level general-purpose programming language. 
+Its design philosophy emphasizes code readability with its use of significant indentation.
+Code's language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
+The word 'Code' occurs multiple times in this file as an example.
